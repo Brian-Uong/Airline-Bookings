@@ -1,10 +1,10 @@
 # Airline-Bookings
 
-STAT167 Group11 FinalProject:Airline Bookings
-
-Link to Kaggle dataset: https://www.kaggle.com/datasets/anandshaw2001/airlines-booking-csv
+STAT167 Group11 FinalProject: Airline Bookings
 
 By: Brian Uong, AmyLau, EmlynZhai, LindsayPhan, and AdelricLow
+
+Link to Kaggle dataset: https://www.kaggle.com/datasets/anandshaw2001/airlines-booking-csv
 
  Project Introduction:
  The goal of this research project is to analyze an airline booking dataset from Kaggle to determine what factors influence airline bookings. Specifically, our objective is to determine which factors passengers value 
